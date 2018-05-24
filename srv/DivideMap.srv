@@ -1,0 +1,7 @@
+int32 robotId
+---
+int32 minRow
+int32 maxRow
+int32 minCol
+int32 maxCol
+bool result
